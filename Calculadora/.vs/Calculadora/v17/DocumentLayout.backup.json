@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liqui\\source\\repos\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F329DE-262E-43DA-B7AC-155B0138A067}|Calculadora\\Calculadora.vbproj|C:\\Users\\liqui\\source\\repos\\Calculadora\\calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E8F329DE-262E-43DA-B7AC-155B0138A067}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F329DE-262E-43DA-B7AC-155B0138A067}|Calculadora\\Calculadora.vbproj|c:\\users\\liqui\\source\\repos\\calculadora\\calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E8F329DE-262E-43DA-B7AC-155B0138A067}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\liqui\\source\\repos\\Calculadora\\Calculadora\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.vb",
+              "ToolTip": "C:\\Users\\liqui\\source\\repos\\Calculadora\\Calculadora\\Form1.vb*",
+              "RelativeToolTip": "Calculadora\\Form1.vb*",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T11:00:38.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\liqui\\source\\repos\\Calculadora\\Calculadora\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.vb",
+              "ToolTip": "C:\\Users\\liqui\\source\\repos\\Calculadora\\Calculadora\\Form1.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "Calculadora\\Form1.vb [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-20T09:09:55.805Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
